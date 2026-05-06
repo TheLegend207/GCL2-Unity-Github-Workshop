@@ -431,7 +431,7 @@ GameObject:
   - component: {fileID: 962840053}
   - component: {fileID: 962840052}
   m_Layer: 0
-  m_Name: Mystery Box
+  m_Name: GameManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -504,6 +504,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08baffd30a5244b2ba3cfcc7ca60ca31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  lives: 0
 --- !u!4 &962840054
 Transform:
   m_ObjectHideFlags: 0
